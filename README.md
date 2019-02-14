@@ -1,5 +1,4 @@
 # vertigOSC
 
-## An interface for foots to change the things!
-
-senstivite in 2 dimensions XY like me
+## Wii balance board OSC control using Processing and OSCulator. 
+## Controller for MIDI Guitar. 
